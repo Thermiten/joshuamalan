@@ -2,6 +2,12 @@ body{
 	margin:0px;
 	background-color: #FFF7EA;
 }
+
+@font-face {
+  font-family: 'Acre';
+  src:  url('acre-medium-webfont.woff2') format('woff2'),
+        url('acre-medium-webfont.woff') format('woff');
+}
 /*Header*/
 .header{
 	width: 100%;
@@ -21,7 +27,7 @@ body{
 }
 
 .heading{
-	font-style: "Century Gothic"
+	font-style: "Acre"
 }
 
 nav{
@@ -30,7 +36,7 @@ nav{
 	font-size: large;
 	color: white;
 	display: inline-flex;
-	font-style: "FuturaLTW01-Bold"
+	font-style: "Acre"
 }
 
 nav a{
