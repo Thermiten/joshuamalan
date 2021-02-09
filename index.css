@@ -73,6 +73,7 @@ nav a{
 
 /*Subheading*/
 .subhead{
+	justify-content: center;
 	margin-top: 100px;
 	text-align: center;
 	font-weight: bold;
@@ -81,6 +82,7 @@ nav a{
 }
 
 footer{
+	justify-content: center;
 	margin-bottom: 50px;
 	text-align: center;
 	font-weight: bold;
